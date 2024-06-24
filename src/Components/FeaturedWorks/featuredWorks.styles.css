@@ -1,0 +1,44 @@
+.bottom{
+    background-color: rgba(255, 255, 255, 1);
+}
+.featured{
+    margin-left: 8rem;
+    padding-top:2rem;
+    font-size:22px;
+}
+.bottom-image{
+    width: 246px;
+    height: 180px;
+    border-radius: 6px;
+    margin-top:2rem;
+    margin-bottom: 0.5rem;
+}
+.col2{
+    padding-left: 1rem;
+}
+.p1{
+    font-size:17px;
+}
+.box-top, .box-middle, .box-bottom{
+    display:flex;
+    justify-content:center;
+    border-bottom: 1px solid rgba(224, 224, 224, 1);
+    margin-left:8rem;
+    margin-right:7rem;
+    margin-bottom:3rem;
+}
+.bottom h2 {
+    font-size:30px;
+}
+.span-right{
+    font-size:20px;
+    color: rgba(134, 149, 164, 1);
+    padding-left:1.5rem;
+    
+}
+.span-left{
+    background-color: rgba(20, 40, 80, 1);
+    padding:1px 10px;
+    border-radius: 20px;
+    color:rgba(255, 255, 255, 1);
+}

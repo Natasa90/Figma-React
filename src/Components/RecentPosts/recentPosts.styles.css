@@ -1,0 +1,39 @@
+.middle{
+    background: rgba(237, 247, 250, 1);  
+}
+.posts{
+    display:flex;
+}
+.box1{
+    flex:1;
+    padding: 2rem 2rem 0.5rem 8rem;
+}
+.box2 {
+    color: #00A8CC;
+    padding:2rem 8rem 0.5rem 2rem;
+}
+.midtext1{
+    margin: 1rem 0.5rem 5rem 8rem;
+    background-color: rgba(255, 255, 255, 1);
+    border-radius:2px;
+    padding:2rem 3rem 2rem 2rem;
+}
+.midtext2{
+    margin: 1rem 8rem 5rem 0.5rem;
+    background-color: rgba(255, 255, 255, 1);
+    border-radius:2px;
+    padding:2rem 3rem 2rem 2rem;
+}
+.postings{
+    display:flex;
+    justify-content: space-between;   
+}
+h3{
+    font-size:23px;
+}
+.p1{
+    font-size:17px;
+}
+.midtext1,.midtext2 p{
+    font-size:18px;
+}

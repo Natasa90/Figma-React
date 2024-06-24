@@ -1,0 +1,9 @@
+.signs{
+    display:flex;
+    justify-content:center;   
+    gap: 10px;
+}
+i{
+    margin:7rem 1rem 1rem 1rem;
+    color: rgba(33, 36, 61, 1);
+}
